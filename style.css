@@ -83,7 +83,7 @@ _height:2em;
 
 div.box {
 	height: 100px; 
-	width: 320px;
+	width: 500px;
 	display: inline-block;
 }
 
@@ -94,4 +94,4 @@ div.box {
   color: #000000;
   text-align: center; 
 } 
-/* Mário Pina*/         
+/* Mário Pina*/       
